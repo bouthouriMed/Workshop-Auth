@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://bouthouriMed:123456789Aa@cluster0.swp2z.mongodb.net/workshop?retryWrites=true&w=majority",
+    "jwtSecret": ",dzalk,fdmlazfnlkaznfm,sa;mùfc;mùsqf,clkfez"
+}
